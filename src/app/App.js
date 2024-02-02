@@ -1,7 +1,7 @@
 import React from "react";
 
 import { Inventory } from "../features/inventory/Inventory.js";
-import { CurrencyFilter } from "../features/currencyFilter/CurrencyFilter.js";
+import { CurrencyFilter } from "../features/currencyFilter/CurrenyFilter.js";
 // Import the Cart component here.
 import { Cart } from "../features/cart/Cart.js";
 import { SearchTerm } from "../features/searchTerm/SearchTerm.js";
